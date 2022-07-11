@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# Personal Expense app
 
 A new Flutter project.
 
