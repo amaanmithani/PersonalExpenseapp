@@ -1,6 +1,7 @@
 # Personal Expense app
 
 A new Flutter project.
+![flutter_04_expenseTracker](https://github.com/amaanmithani/PersonalExpenseapp/assets/101476296/4978bff2-b291-4bf1-9d75-ffc2a727916b)
 
 ## Getting Started
 
